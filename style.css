@@ -1,0 +1,37 @@
+/* * {
+  box-sizing: border-box;
+}
+
+.btnContainer {
+  grid-template-columns: 150px 150px 150px 150px 150px 150px 150px 150px 150px;
+  grid-template-rows: 50px;
+  max-height: 100px;
+  min-height: 50px;
+  border: 1px solid rgb(250, 153, 35);
+  display: grid;
+  overflow-x: auto;
+  align-items: center;
+}
+
+.btnContainer .btn {
+  background-color: rgb(0, 177, 29);
+  font-size: 20px;
+  color: whitesmoke;
+  border: 0;
+  border-radius: 20%;
+  min-height: 30px;
+  max-height: 50px;
+  min-width: 100px;
+  max-width: 130px;
+  margin: 0 5px 0 5px;
+  cursor: pointer;
+}
+
+#imgmodale {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  background-color: aliceblue;
+  width: 200px;
+  height: 200px;
+} */
